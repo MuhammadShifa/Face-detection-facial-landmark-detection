@@ -1,9 +1,7 @@
-# Face-detection-Recognition
+# Face-detection/Facial-landmark
 
 ## Face Detection:
 Face detection is a computer vision problem that involves finding faces in photos.
-## Face Recognition
-Face recognition is the problem of identifying and verifying people in a photograph by their face.
 
 ### 1.1 Face detection in Image and real-time featured based using cascade classifier.ipynb
 Face detection is a problem in computer vision of locating and localizing one or more faces in a photograph.
