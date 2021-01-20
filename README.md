@@ -14,4 +14,5 @@ In the code file 1.1 I have done the faces detection in image and real time.
 ### 1.2 Face detection in image and real-time deep-learning based using mtcnn.ipynb
 I have acheived perfect result with mtcnn thats why I have also done facial Landmark task in this file in image and also at real-time.
 
-Faces are also crop from image and then we can store the faces in databases or for any other verfication or authorization projects.
+### 1.3 Extracting faces from images using mtcnn.ipynb
+We can also extract the faces from images and then we can use it different system like authorization and verfication system
