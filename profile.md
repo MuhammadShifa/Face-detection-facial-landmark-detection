@@ -15,7 +15,7 @@ I'm here to solve things, Learning a lot in the Process.
 - 📚 I’m currently learning everything about Docker, MLOps and DevOps. 
 - 💪🏼 Goals: Keep building intelligent solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 - 👯 I’m looking to collaborate on Data Science, Computer Vision, Machine Learning and Deep Learning.
-- ⚡ Fun fact **I love Data Visualization, Programming and understanding algorithms**
+- ⚡ Fun fact **I love Data Visualization, Programming, Understanding Algorithms and a Cup of Tea**
 
 ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-shifa-9b7832130/) :earth_asia:
@@ -26,13 +26,11 @@ I'm here to solve things, Learning a lot in the Process.
 
 ### Languages and Tools 🛠 
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Python](https://badges.aleen42.com/src/python.svg)
 ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
 ![Docker](https://badges.aleen42.com/src/docker.svg)
-![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![Vue](https://badges.aleen42.com/src/vue.svg)
-![Nodejs](https://badges.aleen42.com/src/node.svg)
-![Npm](https://badges.aleen42.com/src/npm.svg)
+![Java](https://badges.aleen42.com/src/java.svg)
+![Kotlin](https://badges.aleen42.com/src/kotlin.svg)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://badges.aleen42.com/src/gitlab.svg)
 ![GitHub](https://badges.aleen42.com/src/github.svg)
